@@ -1,5 +1,6 @@
 # Heal-Web-Site
 Acesse o site e confira! = https://geehdv.github.io/Heal-Web-Site/
+
 #Web Site - Gestão de Pacientes para Clínicas Médicas
 
 Este projeto foi realizado através das linguagens CSS e HTML.
@@ -14,6 +15,9 @@ Capturação de Telas:
 ![image](https://github.com/user-attachments/assets/714aaef1-5d87-4d75-979f-92188422a401)
 ![image](https://github.com/user-attachments/assets/86434ee3-98b5-40ab-9203-8e7654bbc1b3)
 ![image](https://github.com/user-attachments/assets/0df82abf-a765-47b9-a9cd-a527e0435d7b)
+![image](https://github.com/user-attachments/assets/b1c8d983-374b-4e5e-8c8a-cc901c5de538)
+![image](https://github.com/user-attachments/assets/b307ddcf-651f-4662-896e-7f246e75f7f5)
+
 
 Protótipo feito pelo Figma (link abaixo):
 https://www.figma.com/design/u7KPriC2Y1IHbMDEF3EtGy/Ger.Pacientes?node-id=0-1&node-type=canvas&t=g1sUYxCfKiQ4Fydh-0
