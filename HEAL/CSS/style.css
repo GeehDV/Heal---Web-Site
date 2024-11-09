@@ -102,7 +102,7 @@ nav ul a:not(.btn):after{
 nav ul a:hover::after{
     width: 100%;
 }
-
+/* Banner */
 .banner{
     display: flex;
     justify-content: center;
@@ -125,7 +125,7 @@ nav ul a:hover::after{
     font-weight: lighter;
     margin: 20px 0;
 }
-
+/* Faca Mais */
 .faca-mais .container{
     display: flex;
     align-items: center;
@@ -154,6 +154,7 @@ nav ul a:hover::after{
     height: auto;    
 }
 
+/* Avaliações */
 .avaliacoes h3{
     text-align: center;
 }
@@ -218,4 +219,37 @@ nav ul a:hover::after{
 .avaliacoes .card-item:hover .avaliacao-user{
     color: #3a6fcf;
     margin-top: -5px;
+}
+
+/*Clientes*/
+.clientes h3{
+    text-align: center;
+}
+
+.clientes p{
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+.clientes .container div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.clientes .container div img{
+    width: 20%;
+    height: auto;
+}
+
+/*footer*/
+.footer {
+    background-color: #6696f0;
+    text-align: center;
+}
+
+.footer p{
+    padding: 20px 0;
+    color: white;
 }
