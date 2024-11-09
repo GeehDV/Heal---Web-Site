@@ -12,11 +12,11 @@ Descrição do Website:
 Proposta de trabalho da faculdade Anhembi Morumbi. 
 
 Capturação de Telas: 
-![image](https://github.com/user-attachments/assets/714aaef1-5d87-4d75-979f-92188422a401)
-![image](https://github.com/user-attachments/assets/86434ee3-98b5-40ab-9203-8e7654bbc1b3)
-![image](https://github.com/user-attachments/assets/0df82abf-a765-47b9-a9cd-a527e0435d7b)
-![image](https://github.com/user-attachments/assets/b1c8d983-374b-4e5e-8c8a-cc901c5de538)
-![image](https://github.com/user-attachments/assets/b307ddcf-651f-4662-896e-7f246e75f7f5)
+![image](https://github.com/user-attachments/assets/4b671723-907f-4e20-adc0-9e9d412cbc67)
+![image](https://github.com/user-attachments/assets/c2a8d322-abc3-49dd-9fa0-54dd05e7238a)
+![image](https://github.com/user-attachments/assets/415715d9-b56a-41c0-a233-febb11416b5f)
+![image](https://github.com/user-attachments/assets/68580b90-391c-42b7-a274-a8442a2dc27c)
+
 
 
 Protótipo feito pelo Figma (link abaixo):
