@@ -44,6 +44,18 @@ p{
     display: inline-block;
 }
 
+.btn2{
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #6696f0; /* Cor do texto */
+    background-color: transparent; /* Sem fundo */
+    border: 2px solid #6696f0; /* Contorno com espessura de 2px */
+    border-radius: 10px; /* Bordas arredondadas, opcional */
+    cursor: pointer;
+    transition: 0.1s; /* Animação para hover */
+    display: inline-block;
+}
+
 .btn.animate-btn{
     animation: animate-outline 1s ease-out infinite;
     background-color: #6696f0;
@@ -102,6 +114,20 @@ nav ul a:not(.btn):after{
 nav ul a:hover::after{
     width: 100%;
 }
+/* Menu Icon */
+nav .menu-icon{
+    cursor: pointer;
+    font-size: 25px;
+    color: white;
+    display: none;
+}
+/* Close Icon */
+nav .close-icon{
+    font-size: 30px;
+    color: white;
+    display: none;
+}
+
 /* Banner */
 .banner{
     display: flex;
@@ -167,6 +193,7 @@ nav ul a:hover::after{
 .cards{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .avaliacoes .card-item{
@@ -252,4 +279,163 @@ nav ul a:hover::after{
 .footer p{
     padding: 20px 0;
     color: white;
+}
+/*Contato*/
+.contato-info{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+.contato-info .left-side{
+    width: 50%;
+    padding: 30px;
+    background-color: #6696f0;
+    border-radius: 14px;
+    margin-right: 50px;
+    height: fit-content;
+}
+
+.contato-info .left-side div{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.contato-info .left-side div i{
+    font-size: 24px;
+    margin-right: 20px;
+    color: white;
+}
+
+.contato-info .left-side div p{
+    font-size: 15px;
+    margin-right: 20px;
+    color: white;
+}
+
+.contato-info .right-side{
+    width: 50%;
+}
+
+.contato-info .right-side input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 47px;
+    padding: 15px;
+    border-radius: 9px;
+    transition: 0.3s;
+    border: 1px solid #6696f0;
+    color: #000000;
+    font-weight: black;
+}
+.contato-info .right-side input:focus,
+.contato-info .right-side textarea:focus{
+    border: 1px solid #6696f0;
+}
+
+.contato-info .right-side textarea{
+    border: 1px solid #f1f1f1;
+    color: #212121;
+    border-radius: 9px;
+    transition: 0.3s;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+    resize: none;
+}
+
+@media(max-width: 830px){
+    /*Menu*/
+.ul{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #3a6fcf;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    clip-path: circle(0.4% at 100% 0);
+    transition: 0.7s;
+}
+.ul.open{
+    clip-path: circle(141.4% at 100% 0);    
+}
+.ul a{
+    margin: 10px 0;
+    font-size: 16px;
+}
+nav .menu-icon{
+    display: block;
+}
+nav .close-icon{
+    display: block;
+    position: absolute;
+    top: 46px;
+    right: 28px;
+}
+/*Pagina Home Responsiva */
+.faca-mais .faca-mais-text{
+    margin-top: 10px;
+    padding: 0 20px;
+    order: 1;
+}
+.faca-mais .container{
+    flex-direction: column;
+}
+.faca-mais .faca-mais-text h3{
+    font-size: 48px;
+}
+.faca-mais .faca-mais-text,
+.faca-mais .faca-mais-img{
+    width: 100%;
+}
+/*banner responsivo*/
+.banner .banner-text{
+    padding: 0;
+    margin: 80px
+}
+.banner .banner-text h1{
+    font-size: 80px;
+}
+.banner .banner-text p{
+    font-size: 15px;
+}
+.avaliacoes .card-item{
+    width: 100%;
+}
+/*Pagina Sobre Responsiva*/
+.sobre .container{
+    flex-direction: column-reverse;
+}
+.sobre .sobre-img,
+.sobre .sobre-text{
+    width: 100%;
+}
+.sobre .sobre-text{
+   margin-top: 40px;
+}
+/*Pagina Contato Responsiva*/
+.contato-info{
+    flex-direction: column-reverse;
+}
+.contato-info .left-side,
+.contato-info .right-side{
+    width: 100%;
+}
+.contato-info .right-side{
+    margin-bottom: 30px;
+}
+}
+
+@media (max-width: 500px){
+    .banner .banner-text h1{
+        font-size: 50px;
+    }
+    .faca-mais .faca-mais-text h3{
+        font-size: 40px;
+    }
 }
