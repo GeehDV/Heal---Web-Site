@@ -11,13 +11,25 @@ Descrição do Website:
 
 Proposta de trabalho da faculdade Anhembi Morumbi. 
 
-Capturação de Telas: 
-![image](https://github.com/user-attachments/assets/4b671723-907f-4e20-adc0-9e9d412cbc67)
-![image](https://github.com/user-attachments/assets/c2a8d322-abc3-49dd-9fa0-54dd05e7238a)
-![image](https://github.com/user-attachments/assets/415715d9-b56a-41c0-a233-febb11416b5f)
-![image](https://github.com/user-attachments/assets/68580b90-391c-42b7-a274-a8442a2dc27c)
+Capturação de Telas (Home): 
+![image](https://github.com/user-attachments/assets/6bbace61-a1c1-4adc-9cfd-7a47ad97a318)
+![image](https://github.com/user-attachments/assets/ebb24ff0-a210-4711-9eb7-ff1213e27408)
+![image](https://github.com/user-attachments/assets/4e7fb9eb-47f6-42db-8e03-a2dd296958bc)
+![image](https://github.com/user-attachments/assets/7c8edf45-e540-42f3-80cf-7c2b40a2a530)
+
+Capturação de Telas (Sobre): 
+![image](https://github.com/user-attachments/assets/8c8ca6c3-5744-4537-b5b1-fe91faff420b)
+
+
+
+
+
 
 
 
 Protótipo feito pelo Figma (link abaixo):
 https://www.figma.com/design/u7KPriC2Y1IHbMDEF3EtGy/Ger.Pacientes?node-id=0-1&node-type=canvas&t=g1sUYxCfKiQ4Fydh-0
+
+Nome dos participantes do projeto:
+Geovanna Amorim Silva
+Pedro Henrique da Silva
