@@ -31,5 +31,5 @@ Protótipo feito pelo Figma (link abaixo):
 https://www.figma.com/design/u7KPriC2Y1IHbMDEF3EtGy/Ger.Pacientes?node-id=0-1&node-type=canvas&t=g1sUYxCfKiQ4Fydh-0
 
 Nome dos participantes do projeto:
-Geovanna Amorim Silva
-Pedro Henrique da Silva
+- Geovanna Amorim Silva
+- Pedro Henrique da Silva
